@@ -28,11 +28,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AndroidLinkMode>None</AndroidLinkMode>
-    <AndroidKeyStore>True</AndroidKeyStore>
-    <AndroidSigningKeyStore>/Users/javierhuamanchumoarauco/Library/Developer/Xamarin/Keystore/firebase/firebase.keystore</AndroidSigningKeyStore>
-    <AndroidSigningStorePass>Bravent.2018</AndroidSigningStorePass>
-    <AndroidSigningKeyAlias>Firebase</AndroidSigningKeyAlias>
-    <AndroidSigningKeyPass>Bravent.2018</AndroidSigningKeyPass>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
